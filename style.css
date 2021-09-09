@@ -1,0 +1,18 @@
+.quem-somos{
+    background-color: rgba(80, 202, 42, 0.432);
+    padding: 8%;
+}
+
+.parceiros{
+    background-color: rgba(52, 192, 211, 0.747);
+    padding: 8%;
+}
+
+.servicos{
+    background-color: rgba(211, 52, 65, 0.747);
+    padding: 8%;
+}
+
+.footer{
+    margin: 10%;
+}
